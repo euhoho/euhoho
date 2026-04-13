@@ -43,5 +43,4 @@ Currently studying Multiplatform Application Development (DAM) and planning to s
 Always open to collaborations, interesting projects or just a good conversation about software.
 
 📧 euhohocontact@gmail.com  
-🌍 Madrid, Spain  
-💼 [linkedin.com/in/alvaromartin](https://linkedin.com/in/alvaromartin)
+🌍 Madrid, Spain
