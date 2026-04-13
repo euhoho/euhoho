@@ -31,7 +31,7 @@ Currently studying Multiplatform Application Development (DAM) and planning to s
 
 ## 🚀 Highlight Project
 
-**FLUX studio © - Online Roleplay Platform** *(2022 – 2024)*  
+**FLUX studio © - Online Roleplay Platform** *(2021 – 2024)*  
 100,000+ registered users, first to bring the VRP Brazilian FiveM framework to the Spanish market. Built with Lua, Node.js, HTML/CSS/JS and MySQL. Handled all technical architecture and led a volunteer staff team.
 
 ## 🎯 Currently Learning
