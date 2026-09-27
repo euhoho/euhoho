@@ -1,3 +1,6 @@
+<img width="2480" height="520" alt="visuals-001377779305-PPBaU7-t2480x520" src="https://github.com/user-attachments/assets/be266af7-29d8-4a95-9f65-a79d07c3d1b7" />
+
+
 ## 👨‍💻 Languages
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,lua,html,css)](https://skillicons.dev)
